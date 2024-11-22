@@ -29,6 +29,5 @@ While text-to-video diffusion models have made significant strides, many still f
 <p>
 <img src="assets/pipeline.jpg" width="100%"/>  
 <br>
-
 MotionPrompt enhances temporal consistency in text-to-video diffusion models by combining prompt optimization with an optical flow-based discriminator. Leveraging gradients from a subset of frames and aligning optical flow with real-world motion patterns, MotionPrompt efficiently generates videos with smooth, realistic motion and strong contextual coherence.
 </p>
