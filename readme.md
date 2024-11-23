@@ -3,8 +3,8 @@
 This repository is the official implementation of Optical-Flow Guided Prompt Optimization for Coherent Video Generation, <br>
 led by [Hyelin Nam](https://hyelinnam.github.io/)*, Jaemin Kim * , Dohun Lee, Jong Chul Ye
 
-<!-- [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://motionprompt.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/) -->
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://motionprompt.github.io/)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/) -->
 
 <table class="center">
   <tr>
