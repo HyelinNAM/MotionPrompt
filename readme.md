@@ -1,4 +1,4 @@
-# Optical-Flow Guided Prompt Optimization for Coherent Video Generation (Motion Prompt)
+# [CVPR 2025] Optical-Flow Guided Prompt Optimization for Coherent Video Generation (Motion Prompt)
 
 This repository is the official implementation of Optical-Flow Guided Prompt Optimization for Coherent Video Generation, <br>
 led by [Hyelin Nam](https://hyelinnam.github.io/)*, Jaemin Kim * , Dohun Lee, Jong Chul Ye
